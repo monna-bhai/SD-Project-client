@@ -1,0 +1,74 @@
+.firstmain{
+    background-color: rgb(180, 235, 181);
+}
+.texts{
+    text-align: center;
+    color: blue;
+    font-size: 300%;
+    font-weight: 800;
+    margin-top: 10%;
+    margin-bottom: 5%;
+}
+.textsone{
+    text-align: center;
+    color: rgb(56, 49, 10);
+    font-size: 200%;
+    font-weight: 600;
+}
+.sura{
+    text-align: center;
+    color: rgb(253, 89, 8);
+    font-size: 200%;
+    font-weight: 600;
+    text-shadow: rgb(15, 14, 14);
+}
+.textstwo{
+    text-align: center;
+    color: rgb(253, 89, 8);
+    font-size: 200%;
+    font-weight: 600;
+    text-shadow: rgb(15, 14, 14);
+}
+.textsthree{
+    text-align: center;
+    color: rgb(20, 98, 98);
+    font-size: 180%;
+    font-weight: 600;
+}
+.textsfour{
+    text-align: center;
+    color: rgb(13, 14, 75);
+    font-size: 180%;
+    font-weight: 600;
+}
+
+.servicetexts{
+    text-align: center;
+    color: rgb(19, 15, 2);
+    font-size: 300%;
+    font-weight: 800;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.footermain{
+    background-color: black;
+
+}
+.footerone{
+    text-align: center;
+    color: rgb(21, 95, 244);
+    font-size: 250%;
+    font-weight: 700;
+}
+.footertwo{
+    text-align: center;
+    color: rgb(21, 244, 62);
+    font-size: 180%;
+    font-weight: 500;
+}
+.footethree{
+    text-align: center;
+    color: rgb(220, 231, 9);
+    font-size: 150%;
+    font-weight: 500;
+}
